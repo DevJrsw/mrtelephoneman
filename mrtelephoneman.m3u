@@ -22,6 +22,10 @@ https://ptv.ac/live/ex73EyKgwc/EK8Kw9QmGC/437267.ts
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://yt3.googleusercontent.com/4eaHEwi6w27KQeEeSNxZdhnRazamUNBh5MIZegCqGGufTADxC9oALRWOhKC8NZXxuY5BNF-IhQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Tennis
 https://7pal.short.gy/ssportstn
 
---- Entertainment
+--- UK | TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK | TV", BBC One FHD
+https://ptv.ac/live/ex73EyKgwc/EK8Kw9QmGC/300262.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK | TV", ITV 1 FHD
+https://ptv.ac/live/ex73EyKgwc/EK8Kw9QmGC/389823.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment", Film 4 FHD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
