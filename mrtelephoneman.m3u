@@ -1,18 +1,22 @@
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 
 --- Sports
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports",4K Sports Main Event
+http://drmzeus.top:80/live/q1426m2js33sw2/prwpp8mp87mzv0/10518.ts
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports",Sports Main Event
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports",Sports Main Event (Backup)
-https://ptv.ac/live/ex73EyKgwc/EK8Kw9QmGC/793873.ts
+http://drmzeus.top:80/live/q1426m2js33sw2/prwpp8mp87mzv0/10514.ts
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://github.com/DevJrsw/mrtelephoneman/blob/main/football.png?raw=true" group-title="Sports",Football
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://github.com/DevJrsw/mrtelephoneman/blob/main/football.png?raw=true" group-title="Sports",Football (Backup)
-https://ptv.ac/live/ex73EyKgwc/EK8Kw9QmGC/437268.ts
+http://drmzeus.top:80/live/q1426m2js33sw2/prwpp8mp87mzv0/10516.ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://github.com/DevJrsw/mrtelephoneman/blob/main/football.png?raw=true" group-title="Sports",Football 2
-https://7pal.short.gy/ssportspl
+http://drmzeus.top:80/live/q1426m2js33sw2/prwpp8mp87mzv0/10511.ts
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/DevJrsw/mrtelephoneman/blob/main/football.png?raw=true" group-title="Sports",Football 3
-https://7pal.short.gy/tntspts1
+http://drmzeus.top:80/live/q1426m2js33sw2/prwpp8mp87mzv0/309615.ts
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",4K Formula 1
+http://drmzeus.top:80/live/q1426m2js33sw2/prwpp8mp87mzv0/1076470.ts
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",Formula 1
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://yt3.googleusercontent.com/M6IEcf2PDL9jTofwSW41WCqRkf8y1Th3rj5BdUwVHmKI2jEJWfSP0lOiC97KBvd60fgJOzfb=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Golf
